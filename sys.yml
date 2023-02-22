@@ -95,61 +95,61 @@
 - id: 0x4E89
   en: '{:color #E000E080}Dodge Roll MAX'
 - id: 0x398B
-  en: '{:color #005EFF80}Slapshot'
+  en: '{:color #00BBFF80}Slapshot'
 - id: 0x4E78
-  en: '{:color #005EFF80}Vicinity Break'
+  en: '{:color #00BBFF80}Vicinity Break'
 - id: 0x399F
-  en: '{:color #005EFF80}Aerial Finish'
+  en: '{:color #00BBFF80}Aerial Finish'
 - id: 0x3997
-  en: '{:color #005EFF80}Counterguard'
+  en: '{:color #00BBFF80}Counterguard'
 - id: 0x4E8B
-  en: '{:color #005EFF80}Auto Limit'
+  en: '{:color #00BBFF80}Auto Limit'
 - id: 0x333D
-  en: '{:color #005EFF80}Teamwork'
+  en: '{:color #00BBFF80}Teamwork'
 - id: 0x333B
-  en: '{:color #005EFF80}Tornado Fusion'
+  en: '{:color #00BBFF80}Tornado Fusion'
 - id: 0x2F40
-  en: '{:color #005EFF80}Knocksmash'
+  en: '{:color #00BBFF80}Knocksmash'
 - id: 0x0498
-  en: '{:color #005EFF80}Whirli-Goof'
+  en: '{:color #00BBFF80}Whirli-Goof'
 - id: 0x2F63
-  en: '{:color #005EFF80}Combo Plus'
+  en: '{:color #00BBFF80}Combo Plus'
 - id: 0x2F65
-  en: '{:color #005EFF80}Air Combo Plus'
+  en: '{:color #00BBFF80}Air Combo Plus'
 - id: 0x3BDC
-  en: '{:color #005EFF80}Negative Combo'
+  en: '{:color #00BBFF80}Negative Combo'
 - id: 0x3BDE
-  en: '{:color #005EFF80}Berserk Charge'
+  en: '{:color #00BBFF80}Berserk Charge'
 - id: 0x3BE0
-  en: '{:color #005EFF80}Damage Drive'
+  en: '{:color #00BBFF80}Damage Drive'
 - id: 0x3BE2
-  en: '{:color #005EFF80}Drive Boost'
+  en: '{:color #00BBFF80}Drive Boost'
 - id: 0x3BE4
-  en: '{:color #005EFF80}Form Boost'
+  en: '{:color #00BBFF80}Form Boost'
 - id: 0x3BF2
-  en: '{:color #005EFF80}Draw'
+  en: '{:color #00BBFF80}Draw'
 - id: 0x3BF4
-  en: '{:color #005EFF80}Jackpot'
+  en: '{:color #00BBFF80}Jackpot'
 - id: 0x3BF6
-  en: '{:color #005EFF80}Lucky Lucky'
+  en: '{:color #00BBFF80}Lucky Lucky'
 - id: 0x4E2A
-  en: '{:color #005EFF80}Drive Converter'
+  en: '{:color #00BBFF80}Drive Converter'
 - id: 0x3BFE
-  en: '{:color #005EFF80}Item Boost'
+  en: '{:color #00BBFF80}Item Boost'
 - id: 0x3C00
-  en: '{:color #005EFF80}MP Rage'
+  en: '{:color #00BBFF80}MP Rage'
 - id: 0x3C02
-  en: '{:color #005EFF80}MP Haste'
+  en: '{:color #00BBFF80}MP Haste'
 - id: 0x4E2E
-  en: '{:color #005EFF80}Damage Control'
+  en: '{:color #00BBFF80}Damage Control'
 - id: 0x064C
-  en: '{:color #005EFF80}High Jump LV1'
+  en: '{:color #00BBFF80}High Jump LV1'
 - id: 0x064E
-  en: '{:color #005EFF80}High Jump LV2'
+  en: '{:color #00BBFF80}High Jump LV2'
 - id: 0x0650
-  en: '{:color #005EFF80}High Jump LV3'
+  en: '{:color #00BBFF80}High Jump LV3'
 - id: 0x0652
-  en: '{:color #005EFF80}High Jump MAX'
+  en: '{:color #00BBFF80}High Jump MAX'
 - id: 0x1E60
   en: '{:color #00DE0080}Upper Slash'
 - id: 0x39A1
