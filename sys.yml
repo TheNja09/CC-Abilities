@@ -1,65 +1,65 @@
 - id: 0x066C
-  en: '{:color #FFDD0080}Guard'
+  en: '{:color #FFB70080}Guard'
 - id: 0x399D
-  en: '{:color #FFDD0080}Horizontal Slash'
+  en: '{:color #FFB70080}Horizontal Slash'
 - id: 0x4E72
-  en: '{:color #FFDD0080FFDD0080}Flash Step'
+  en: '{:color #FFB70080}Flash Step'
 - id: 0x398F
-  en: '{:color #FFDD0080}Slide Dash'
+  en: '{:color #FFB70080}Slide Dash'
 - id: 0x3993
-  en: '{:color #FFDD0080}Explosion'
+  en: '{:color #FFB70080}Explosion'
 - id: 0x4E76
-  en: '{:color #FFDD0080}Magnet Burst'
+  en: '{:color #FFB70080}Magnet Burst'
 - id: 0x3335
-  en: '{:color #FFDD0080}Trinity Limit'
+  en: '{:color #FFB70080}Trinity Limit'
 - id: 0x3339
-  en: '{:color #FFDD0080}Flare Force'
+  en: '{:color #FFB70080}Flare Force'
 - id: 0x3D61
-  en: '{:color #FFDD0080}Trinity'
+  en: '{:color #FFB70080}Trinity'
 - id: 0x3925
-  en: '{:color #FFDD0080}Duck Flare'
+  en: '{:color #FFB70080}Duck Flare'
 - id: 0x1F73
-  en: '{:color #FFDD0080}Scan'
+  en: '{:color #FFB70080}Scan'
 - id: 0x2858
-  en: '{:color #FFDD0080}Aerial Recovery'
+  en: '{:color #FFB70080}Aerial Recovery'
 - id: 0x4E28
-  en: '{:color #FFDD0080}Combo Master'
+  en: '{:color #FFB70080}Combo Master'
 - id: 0x3BD4
-  en: '{:color #FFDD0080}Combo Boost'
+  en: '{:color #FFB70080}Combo Boost'
 - id: 0x3BDA
-  en: '{:color #FFDD0080}Finishing Plus'
+  en: '{:color #FFB70080}Finishing Plus'
 - id: 0x3BEA
-  en: '{:color #FFDD0080}Experience Boost'
+  en: '{:color #FFB70080}Experience Boost'
 - id: 0x3C14
-  en: '{:color #FFDD0080}MP Hastega'
+  en: '{:color #FFB70080}MP Hastega'
 - id: 0x3C06
-  en: '{:color #FFDD0080}Second Chance'
+  en: '{:color #FFB70080}Second Chance'
 - id: 0x3C08
-  en: '{:color #FFDD0080}Once More'
+  en: '{:color #FFB70080}Once More'
 - id: 0x0654
-  en: '{:color #FFDD0080}Quick Run LV1'
+  en: '{:color #FFB70080}Quick Run LV1'
 - id: 0x0656
-  en: '{:color #FFDD0080}Quick Run LV2'
+  en: '{:color #FFB70080}Quick Run LV2'
 - id: 0x0658
-  en: '{:color #FFDD0080}Quick Run LV3'
+  en: '{:color #FFB70080}Quick Run LV3'
 - id: 0x065A
-  en: '{:color #FFDD0080}Quick Run MAX'
+  en: '{:color #FFB70080}Quick Run MAX'
 - id: 0x065C
-  en: '{:color #FFDD0080}Aerial Dodge LV1'
+  en: '{:color #FFB70080}Aerial Dodge LV1'
 - id: 0x065E
-  en: '{:color #FFDD0080}Aerial Dodge LV2'
+  en: '{:color #FFB70080}Aerial Dodge LV2'
 - id: 0x0660
-  en: '{:color #FFDD0080}Aerial Dodge LV3'
+  en: '{:color #FFB70080}Aerial Dodge LV3'
 - id: 0x0662
-  en: '{:color #FFDD0080}Aerial Dodge MAX'
+  en: '{:color #FFB70080}Aerial Dodge MAX'
 - id: 0x0664
-  en: '{:color #FFDD0080}Glide LV1'
+  en: '{:color #FFB70080}Glide LV1'
 - id: 0x0666
-  en: '{:color #FFDD0080}Glide LV2'
+  en: '{:color #FFB70080}Glide LV2'
 - id: 0x0668
-  en: '{:color #FFDD0080}Glide LV3'
+  en: '{:color #FFB70080}Glide LV3'
 - id: 0x066A
-  en: '{:color #FFDD0080}Glide MAX'
+  en: '{:color #FFB70080}Glide MAX'
 - id: 0x3995
   en: '{:color #E000E080}Finishing Leap'
 - id: 0x3991
