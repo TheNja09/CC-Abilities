@@ -1,0 +1,202 @@
+- id: 0x066C
+  en: '{:color #FFB70080}Guard'
+- id: 0x399D
+  en: '{:color #FFB70080}Horizontal Slash'
+- id: 0x4E72
+  en: '{:color #FFB70080}Flash Step'
+- id: 0x398F
+  en: '{:color #FFB70080}Slide Dash'
+- id: 0x3993
+  en: '{:color #FFB70080}Explosion'
+- id: 0x4E76
+  en: '{:color #FFB70080}Magnet Burst'
+- id: 0x3335
+  en: '{:color #FFB70080}Trinity Limit'
+- id: 0x3339
+  en: '{:color #FFB70080}Flare Force'
+- id: 0x3D61
+  en: '{:color #FFB70080}Trinity'
+- id: 0x3925
+  en: '{:color #FFB70080}Duck Flare'
+- id: 0x1F73
+  en: '{:color #FFB70080}Scan'
+- id: 0x2858
+  en: '{:color #FFB70080}Aerial Recovery'
+- id: 0x4E28
+  en: '{:color #FFB70080}Combo Master'
+- id: 0x3BD4
+  en: '{:color #FFB70080}Combo Boost'
+- id: 0x3BDA
+  en: '{:color #FFB70080}Finishing Plus'
+- id: 0x3BEA
+  en: '{:color #FFB70080}Experience Boost'
+- id: 0x3C14
+  en: '{:color #FFB70080}MP Hastega'
+- id: 0x3C06
+  en: '{:color #FFB70080}Second Chance'
+- id: 0x3C08
+  en: '{:color #FFB70080}Once More'
+- id: 0x0654
+  en: '{:color #FFB70080}Quick Run LV1'
+- id: 0x0656
+  en: '{:color #FFB70080}Quick Run LV2'
+- id: 0x0658
+  en: '{:color #FFB70080}Quick Run LV3'
+- id: 0x065A
+  en: '{:color #FFB70080}Quick Run MAX'
+- id: 0x065C
+  en: '{:color #FFB70080}Aerial Dodge LV1'
+- id: 0x065E
+  en: '{:color #FFB70080}Aerial Dodge LV2'
+- id: 0x0660
+  en: '{:color #FFB70080}Aerial Dodge LV3'
+- id: 0x0662
+  en: '{:color #FFB70080}Aerial Dodge MAX'
+- id: 0x0664
+  en: '{:color #FFB70080}Glide LV1'
+- id: 0x0666
+  en: '{:color #FFB70080}Glide LV2'
+- id: 0x0668
+  en: '{:color #FFB70080}Glide LV3'
+- id: 0x066A
+  en: '{:color #FFB70080}Glide MAX'
+- id: 0x3995
+  en: '{:color #C400C480}Finishing Leap'
+- id: 0x3991
+  en: '{:color #C400C480}Guard Break'
+- id: 0x4E74
+  en: '{:color #C400C480}Aerial Dive'
+- id: 0x399B
+  en: '{:color #C400C480}Aerial Spiral'
+- id: 0x3337
+  en: '{:color #C400C480}Fantasia'
+- id: 0x1E53
+  en: '{:color #C400C480}Comet'
+- id: 0x3BD6
+  en: '{:color #C400C480}Air Combo Boost'
+- id: 0x3BD8
+  en: '{:color #C400C480}Reaction Boost'
+- id: 0x4E2C
+  en: '{:color #C400C480}Light & Darkness'
+- id: 0x3BF8
+  en: '{:color #C400C480}Fire Boost'
+- id: 0x3BFA
+  en: '{:color #C400C480}Blizzard Boost'
+- id: 0x3BFC
+  en: '{:color #C400C480}Thunder Boost'
+- id: 0x3C12
+  en: '{:color #C400C480}MP Hastera'
+- id: 0x4E83
+  en: '{:color #C400C480}Dodge Roll LV1'
+- id: 0x4E85
+  en: '{:color #C400C480}Dodge Roll LV2'
+- id: 0x4E87
+  en: '{:color #C400C480}Dodge Roll LV3'
+- id: 0x4E89
+  en: '{:color #C400C480}Dodge Roll MAX'
+- id: 0x398B
+  en: '{:color #005EFF80}Slapshot'
+- id: 0x4E78
+  en: '{:color #005EFF80}Vicinity Break'
+- id: 0x399F
+  en: '{:color #005EFF80}Aerial Finish'
+- id: 0x3997
+  en: '{:color #005EFF80}Counterguard'
+- id: 0x4E8B
+  en: '{:color #005EFF80}Auto Limit'
+- id: 0x333D
+  en: '{:color #005EFF80}Teamwork'
+- id: 0x333B
+  en: '{:color #005EFF80}Tornado Fusion'
+- id: 0x2F40
+  en: '{:color #005EFF80}Knocksmash'
+- id: 0x0498
+  en: '{:color #005EFF80}Whirli-Goof'
+- id: 0x2F63
+  en: '{:color #005EFF80}Combo Plus'
+- id: 0x2F65
+  en: '{:color #005EFF80}Air Combo Plus'
+- id: 0x3BDC
+  en: '{:color #005EFF80}Negative Combo'
+- id: 0x3BDE
+  en: '{:color #005EFF80}Berserk Charge'
+- id: 0x3BE0
+  en: '{:color #005EFF80}Damage Drive'
+- id: 0x3BE2
+  en: '{:color #005EFF80}Drive Boost'
+- id: 0x3BE4
+  en: '{:color #005EFF80}Form Boost'
+- id: 0x3BF2
+  en: '{:color #005EFF80}Draw'
+- id: 0x3BF4
+  en: '{:color #005EFF80}Jackpot'
+- id: 0x3BF6
+  en: '{:color #005EFF80}Lucky Lucky'
+- id: 0x4E2A
+  en: '{:color #005EFF80}Drive Converter'
+- id: 0x3BFE
+  en: '{:color #005EFF80}Item Boost'
+- id: 0x3C00
+  en: '{:color #005EFF80}MP Rage'
+- id: 0x3C02
+  en: '{:color #005EFF80}MP Haste'
+- id: 0x4E2E
+  en: '{:color #005EFF80}Damage Control'
+- id: 0x064C
+  en: '{:color #005EFF80}High Jump LV1'
+- id: 0x064E
+  en: '{:color #005EFF80}High Jump LV2'
+- id: 0x0650
+  en: '{:color #005EFF80}High Jump LV3'
+- id: 0x0652
+  en: '{:color #005EFF80}High Jump MAX'
+- id: 0x1E60
+  en: '{:color #00BB0080}Upper Slash'
+- id: 0x39A1
+  en: '{:color #00BB0080}Retaliating Slash'
+- id: 0x3999
+  en: '{:color #00BB0080}Aerial Sweep'
+- id: 0x3BCA
+  en: '{:color #00BB0080}Auto Valor'
+- id: 0x3BCC
+  en: '{:color #00BB0080}Auto Wisdom'
+- id: 0x3BCE
+  en: '{:color #00BB0080}Auto Master'
+- id: 0x3BD0
+  en: '{:color #00BB0080}Auto Final'
+- id: 0x3BE6
+  en: '{:color #00BB0080}Summon Boost'
+- id: 0x3BE8
+  en: '{:color #00BB0080}Combination Boost'
+- id: 0x3BEC
+  en: '{:color #00BB0080}Leaf Bracer'
+- id: 0x3BEE
+  en: '{:color #00BB0080}Magic Lock-On'
+- id: 0x3C04
+  en: '{:color #00BB0080}Defender'
+- id: 0x398D
+  en: '{:color #57575780}Dodge Slash'
+- id: 0x3BD2
+  en: '{:color #57575780}Auto Summon'
+- id: 0x3BF0
+  en: '{:color #57575780}No Experience'
+- id: 0x0ADE
+  en: '{:color #FF000080}+Strength'
+- id: 0x0AE0
+  en: '{:color #00FF0080}+Defense'
+- id: 0x0ADF
+  en: '{:color #FF00FF80}+Magic'
+- id: 0x0AE1
+  en: '{:color #00FFFF80}+AP'
+- id: 0x0AE2
+  en: '{:color #00FF0080}+HP'
+- id: 0x0AE3
+  en: '{:color #0000FF80}+MP'
+- id: 0x0AE4
+  en: '{:color #FF9D0080}+1 Drive Gauge'
+- id: 0x0AE5
+  en: '{:color #40D9AB80}+1 Item Slot'
+- id: 0x0AE6
+  en: '{:color #00FFBB80}+1 Accessory Slot'
+- id: 0x0AE7
+  en: '{:color #FFFF0080}+1 Armor Slot'
