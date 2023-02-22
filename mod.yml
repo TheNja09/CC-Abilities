@@ -1,5 +1,5 @@
 title: Color Coded Abilities
-description: Renames and recolors all stat upgrades from levels, and gives all Sora's abilities unique tier colors based on how "good" they are, according to a community poll. Thanks to everyone who participated! For best results, please put over the randoseed/GoA, and other text-changing mods.
+description: Renames and recolors all stat upgrades, and gives all Sora's abilities unique tier colors based on how "good" they are, according to a community poll. Thanks to everyone who participated! For best results, please put over the randoseed/GoA, and other text-changing mods.
 assets:
 - name: msg/jp/sys.bar
   multi:
