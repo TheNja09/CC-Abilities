@@ -1,185 +1,185 @@
 - id: 0x066C
-  en: '{:icon rank-s}Guard'
+  en: '{:icon rank-s} Guard'
 - id: 0x399D
-  en: '{:icon rank-s}Horizontal Slash'
+  en: '{:icon rank-s} Horizontal Slash'
 - id: 0x4E72
-  en: '{:icon rank-s}Flash Step'
+  en: '{:icon rank-s} Flash Step'
 - id: 0x398F
-  en: '{:icon rank-s}Slide Dash'
+  en: '{:icon rank-s} Slide Dash'
 - id: 0x3993
-  en: '{:icon rank-s}Explosion'
+  en: '{:icon rank-s} Explosion'
 - id: 0x4E76
-  en: '{:icon rank-s}Magnet Burst'
+  en: '{:icon rank-s} Magnet Burst'
 - id: 0x3335
-  en: '{:icon rank-s}Trinity Limit'
+  en: '{:icon rank-s} Trinity Limit'
 - id: 0x3339
-  en: '{:icon rank-s}Flare Force'
+  en: '{:icon rank-s} Flare Force'
 - id: 0x3D61
-  en: '{:icon rank-s}Trinity'
+  en: '{:icon rank-s} Trinity'
 - id: 0x3925
-  en: '{:icon rank-s}Duck Flare'
+  en: '{:icon rank-s} Duck Flare'
 - id: 0x1F73
-  en: '{:icon rank-s}Scan'
+  en: '{:icon rank-s} Scan'
 - id: 0x2858
-  en: '{:icon rank-s}Aerial Recovery'
+  en: '{:icon rank-s} Aerial Recovery'
 - id: 0x4E28
-  en: '{:icon rank-s}Combo Master'
+  en: '{:icon rank-s} Combo Master'
 - id: 0x3BD4
-  en: '{:icon rank-s}Combo Boost'
+  en: '{:icon rank-s} Combo Boost'
 - id: 0x3BDA
-  en: '{:icon rank-s}Finishing Plus'
+  en: '{:icon rank-s} Finishing Plus'
 - id: 0x3BEA
-  en: '{:icon rank-s}Experience Boost'
+  en: '{:icon rank-s} Experience Boost'
 - id: 0x3C14
-  en: '{:icon rank-s}MP Hastega'
+  en: '{:icon rank-s} MP Hastega'
 - id: 0x3C06
-  en: '{:icon rank-s}Second Chance'
+  en: '{:icon rank-s} Second Chance'
 - id: 0x3C08
-  en: '{:icon rank-s}Once More'
+  en: '{:icon rank-s} Once More'
 - id: 0x0654
-  en: '{:icon rank-s}Quick Run LV1'
+  en: '{:icon rank-s} Quick Run LV1'
 - id: 0x0656
-  en: '{:icon rank-s}Quick Run LV2'
+  en: '{:icon rank-s} Quick Run LV2'
 - id: 0x0658
-  en: '{:icon rank-s}Quick Run LV3'
+  en: '{:icon rank-s} Quick Run LV3'
 - id: 0x065A
-  en: '{:icon rank-s}Quick Run MAX'
+  en: '{:icon rank-s} Quick Run MAX'
 - id: 0x065C
-  en: '{:icon rank-s}Aerial Dodge LV1'
+  en: '{:icon rank-s} Aerial Dodge LV1'
 - id: 0x065E
-  en: '{:icon rank-s}Aerial Dodge LV2'
+  en: '{:icon rank-s} Aerial Dodge LV2'
 - id: 0x0660
-  en: '{:icon rank-s}Aerial Dodge LV3'
+  en: '{:icon rank-s} Aerial Dodge LV3'
 - id: 0x0662
-  en: '{:icon rank-s}Aerial Dodge MAX'
+  en: '{:icon rank-s} Aerial Dodge MAX'
 - id: 0x0664
-  en: '{:icon rank-s}Glide LV1'
+  en: '{:icon rank-s} Glide LV1'
 - id: 0x0666
-  en: '{:icon rank-s}Glide LV2'
+  en: '{:icon rank-s} Glide LV2'
 - id: 0x0668
-  en: '{:icon rank-s}Glide LV3'
+  en: '{:icon rank-s} Glide LV3'
 - id: 0x066A
-  en: '{:icon rank-s}Glide MAX'
+  en: '{:icon rank-s} Glide MAX'
 - id: 0x3995
-  en: '{:icon rank-a}Finishing Leap'
+  en: '{:icon rank-a} Finishing Leap'
 - id: 0x3991
-  en: '{:icon rank-a}Guard Break'
+  en: '{:icon rank-a} Guard Break'
 - id: 0x4E74
-  en: '{:icon rank-a}Aerial Dive'
+  en: '{:icon rank-a} Aerial Dive'
 - id: 0x399B
-  en: '{:icon rank-a}Aerial Spiral'
+  en: '{:icon rank-a} Aerial Spiral'
 - id: 0x3337
-  en: '{:icon rank-a}Fantasia'
+  en: '{:icon rank-a} Fantasia'
 - id: 0x1E53
-  en: '{:icon rank-a}Comet'
+  en: '{:icon rank-a} Comet'
 - id: 0x3BD6
-  en: '{:icon rank-a}Air Combo Boost'
+  en: '{:icon rank-a} Air Combo Boost'
 - id: 0x3BD8
-  en: '{:icon rank-a}Reaction Boost'
+  en: '{:icon rank-a} Reaction Boost'
 - id: 0x4E2C
-  en: '{:icon rank-a}Light & Darkness'
+  en: '{:icon rank-a} Light & Darkness'
 - id: 0x3BF8
-  en: '{:icon rank-a}Fire Boost'
+  en: '{:icon rank-a} Fire Boost'
 - id: 0x3BFA
-  en: '{:icon rank-a}Blizzard Boost'
+  en: '{:icon rank-a} Blizzard Boost'
 - id: 0x3BFC
-  en: '{:icon rank-a}Thunder Boost'
+  en: '{:icon rank-a} Thunder Boost'
 - id: 0x3C12
-  en: '{:icon rank-a}MP Hastera'
+  en: '{:icon rank-a} MP Hastera'
 - id: 0x4E83
-  en: '{:icon rank-a}Dodge Roll LV1'
+  en: '{:icon rank-a} Dodge Roll LV1'
 - id: 0x4E85
-  en: '{:icon rank-a}Dodge Roll LV2'
+  en: '{:icon rank-a} Dodge Roll LV2'
 - id: 0x4E87
-  en: '{:icon rank-a}Dodge Roll LV3'
+  en: '{:icon rank-a} Dodge Roll LV3'
 - id: 0x4E89
-  en: '{:icon rank-a}Dodge Roll MAX'
+  en: '{:icon rank-a} Dodge Roll MAX'
 - id: 0x398B
-  en: '{:icon rank-b}Slapshot'
+  en: '{:icon rank-b} Slapshot'
 - id: 0x4E78
-  en: '{:icon rank-b}Vicinity Break'
+  en: '{:icon rank-b} Vicinity Break'
 - id: 0x399F
-  en: '{:icon rank-b}Aerial Finish'
+  en: '{:icon rank-b} Aerial Finish'
 - id: 0x3997
-  en: '{:icon rank-b}Counterguard'
+  en: '{:icon rank-b} Counterguard'
 - id: 0x4E8B
-  en: '{:icon rank-b}Auto Limit'
+  en: '{:icon rank-b} Auto Limit'
 - id: 0x333D
-  en: '{:icon rank-b}Teamwork'
+  en: '{:icon rank-b} Teamwork'
 - id: 0x333B
-  en: '{:icon rank-b}Tornado Fusion'
+  en: '{:icon rank-b} Tornado Fusion'
 - id: 0x2F40
-  en: '{:icon rank-b}Knocksmash'
+  en: '{:icon rank-b} Knocksmash'
 - id: 0x0498
-  en: '{:icon rank-b}Whirli-Goof'
+  en: '{:icon rank-b} Whirli-Goof'
 - id: 0x2F63
-  en: '{:icon rank-b}Combo Plus'
+  en: '{:icon rank-b} Combo Plus'
 - id: 0x2F65
-  en: '{:icon rank-b}Air Combo Plus'
+  en: '{:icon rank-b} Air Combo Plus'
 - id: 0x3BDC
-  en: '{:icon rank-b}Negative Combo'
+  en: '{:icon rank-b} Negative Combo'
 - id: 0x3BDE
-  en: '{:icon rank-b}Berserk Charge'
+  en: '{:icon rank-b} Berserk Charge'
 - id: 0x3BE0
-  en: '{:icon rank-b}Damage Drive'
+  en: '{:icon rank-b} Damage Drive'
 - id: 0x3BE2
-  en: '{:icon rank-b}Drive Boost'
+  en: '{:icon rank-b} Drive Boost'
 - id: 0x3BE4
-  en: '{:icon rank-b}Form Boost'
+  en: '{:icon rank-b} Form Boost'
 - id: 0x3BF2
-  en: '{:icon rank-b}Draw'
+  en: '{:icon rank-b} Draw'
 - id: 0x3BF4
-  en: '{:icon rank-b}Jackpot'
+  en: '{:icon rank-b} Jackpot'
 - id: 0x3BF6
-  en: '{:icon rank-b}Lucky Lucky'
+  en: '{:icon rank-b} Lucky Lucky'
 - id: 0x4E2A
-  en: '{:icon rank-b}Drive Converter'
+  en: '{:icon rank-b} Drive Converter'
 - id: 0x3BFE
-  en: '{:icon rank-b}Item Boost'
+  en: '{:icon rank-b} Item Boost'
 - id: 0x3C00
-  en: '{:icon rank-b}MP Rage'
+  en: '{:icon rank-b} MP Rage'
 - id: 0x3C02
-  en: '{:icon rank-b}MP Haste'
+  en: '{:icon rank-b} MP Haste'
 - id: 0x4E2E
-  en: '{:icon rank-b}Damage Control'
+  en: '{:icon rank-b} Damage Control'
 - id: 0x064C
-  en: '{:icon rank-b}High Jump LV1'
+  en: '{:icon rank-b} High Jump LV1'
 - id: 0x064E
-  en: '{:icon rank-b}High Jump LV2'
+  en: '{:icon rank-b} High Jump LV2'
 - id: 0x0650
-  en: '{:icon rank-b}High Jump LV3'
+  en: '{:icon rank-b} High Jump LV3'
 - id: 0x0652
-  en: '{:icon rank-b}High Jump MAX'
+  en: '{:icon rank-b} High Jump MAX'
 - id: 0x1E60
-  en: '{:icon rank-c}Upper Slash'
+  en: '{:icon rank-c} Upper Slash'
 - id: 0x39A1
-  en: '{:icon rank-c}Retaliating Slash'
+  en: '{:icon rank-c} Retaliating Slash'
 - id: 0x3999
-  en: '{:icon rank-c}Aerial Sweep'
+  en: '{:icon rank-c} Aerial Sweep'
 - id: 0x3BCA
-  en: '{:icon rank-c}Auto Valor'
+  en: '{:icon rank-c} Auto Valor'
 - id: 0x3BCC
-  en: '{:icon rank-c}Auto Wisdom'
+  en: '{:icon rank-c} Auto Wisdom'
 - id: 0x3BCE
-  en: '{:icon rank-c}Auto Master'
+  en: '{:icon rank-c} Auto Master'
 - id: 0x3BD0
-  en: '{:icon rank-c}Auto Final'
+  en: '{:icon rank-c} Auto Final'
 - id: 0x3BE6
-  en: '{:icon rank-c}Summon Boost'
+  en: '{:icon rank-c} Summon Boost'
 - id: 0x3BE8
-  en: '{:icon rank-c}Combination Boost'
+  en: '{:icon rank-c} Combination Boost'
 - id: 0x3BEC
-  en: '{:icon rank-c}Leaf Bracer'
+  en: '{:icon rank-c} Leaf Bracer'
 - id: 0x3BEE
-  en: '{:icon rank-c}Magic Lock-On'
+  en: '{:icon rank-c} Magic Lock-On'
 - id: 0x3C04
-  en: '{:icon rank-c}Defender'
+  en: '{:icon rank-c} Defender'
 - id: 0x398D
-  en: '{:icon question-mark}Dodge Slash'
+  en: '{:icon question-mark} Dodge Slash'
 - id: 0x3BD2
-  en: '{:icon question-mark}Auto Summon'
+  en: '{:icon question-mark} Auto Summon'
 - id: 0x3BF0
-  en: '{:icon question-mark}No Experience'
+  en: '{:icon question-mark} No Experience'
 - id: 0x0ADE
   en: '{:color #FF000080}+STRENGTH'
 - id: 0x0AE0
